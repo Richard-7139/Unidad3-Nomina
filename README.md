@@ -1,4 +1,4 @@
-# Nomina - Unidad 3
+# Sistema de Nomina - Unidad 3
 
 Proyecto simple de nómina implementado en Java (POO).
 
